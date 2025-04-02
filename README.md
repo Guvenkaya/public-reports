@@ -1,6 +1,6 @@
 ## Guvenkaya Public Security Assessment Reports
 
-**We have audited the following projects:**
+**Below is a selection of projects we've audited::**
 
 | Project Name     | Description                                         | Ecosystem | Type                  | Language         | Audit Report                                                                                                     |
 |------------------|-----------------------------------------------------|----------|-----------------------|------------------|-------------------------------------------------------------------------------------------------------------------|
@@ -11,7 +11,7 @@
 | **Sweat Economy**| Sweat Jars Refactor Security Review                 | NEAR     | Smart Contract        | Rust             | [View Report](The-Sweat-Foundation-Ltd-Jars-Refactor-Rust-Smart-Contract-Security-Assessment.pdf)                 |
 | **Sweat Economy**| Burn Model Changes Security Review                  | NEAR     | Smart Contract        | Rust             | [View Report](The-Sweat-Foundation-Ltd-Burn-Model-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)               |
 | **Sweat Economy**| Defer Feature Security Review                       | NEAR     | Smart Contract        | Rust             | [View Report](The-Sweat-Foundation-Ltd-Defer-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)                    |
-| **Enjin**        | Relaychain and Matrixchain Security Review          | Enjin    | Substrate Layer-1     | Rust             | No Public Report |
+| **Enjin**        | Relaychain and Matrixchain Security Review          | Enjin/Polkadot    | Substrate Layer-1     | Rust             | No Public Report |
 | **Ample Protocol** | IP and Media Protocol Security Review            | NEAR     | Smart Contract        | Rust             | [View Report](Ample-Protocol-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)                                    |
 | **DefiShards**   | Decentralized Investment Platform Security Review   | NEAR     | Smart Contract        | Rust             | [View Report](DeFiShards-NEAR-Rust-Smart-Contract-Security-Assessment-Final-Report.pdf)                         |
 | **Potlock**      | Portal For Public Goods And Funding Security Review | NEAR     | Smart Contract        | Rust             | [View Report](Potlock-NEAR-Rust-Smart-Contract-Security-Assessment.pdf)                                           |
