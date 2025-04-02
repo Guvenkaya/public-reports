@@ -1,6 +1,6 @@
 ## Guvenkaya Public Security Assessment Reports
 
-**Below is a selection of projects we've audited::**
+**Below is a selection of projects we've audited:**
 
 | Project Name     | Description                                         | Ecosystem | Type                  | Language         | Audit Report                                                                                                     |
 |------------------|-----------------------------------------------------|----------|-----------------------|------------------|-------------------------------------------------------------------------------------------------------------------|
