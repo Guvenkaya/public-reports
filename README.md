@@ -27,3 +27,5 @@ Reports are published here when clients approve public release. Some selected en
 | **Jump DeFi** | Smart Router and Farm Security Review | NEAR | Smart Contract | Rust | [PDF](Jump-Defi-NEAR-Rust-Smart-Contract-Security-Assessment.pdf) |
 | **Jump DeFi** | Backend and Frontend Security Review | NEAR | Off-chain Component | Rust & TypeScript | [PDF](Jump-Defi-Backend-And-Frontend-Security-Assessment.pdf) |
 | **Neko** | Airdrop Script Security Review | NEAR | Off-chain Component | TypeScript | [PDF](Trove-Labs-Neko-Airdrop-Script-Security-And-Code-Review.pdf) |
+| **Sailor Lend** | Sailor Lend Smart Contract Security Review | NEAR | Smart Contract | Rust | [PDF](Sailor-Lend-NEAR-Smart-Contract-Security-Review-Final.pdf) |
+| **Sailor Lend** | Sailor Lend Web Application Security Review | NEAR | Off-chain Component | TypeScript | [PDF](Sailor-Lend-Web-Application-Security-Review-Final.pdf) |
