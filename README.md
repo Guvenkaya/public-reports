@@ -17,6 +17,7 @@ Reports are published here when clients approve public release. Some selected en
 | **Sweat Economy** | Defer Feature Security Review | NEAR | Smart Contract | Rust | [PDF](The-Sweat-Foundation-Ltd-Defer-NEAR-Rust-Smart-Contract-Security-Assessment.pdf) |
 | **Sweat Economy** | Sweat Jars Migration And Refactor | NEAR | Smart Contract | Rust | [PDF](The-Sweat-Foundation-Ltd-Sweat-Jars-Migration-And-Refactor-Smart-Contract-Review-Final-Report.pdf) |
 | **Sweat Economy** | Sweat Tiered Jars And Boosters | NEAR | Smart Contract | Rust | [PDF](The-Sweat-Foundation-Ltd-Tiered-Jars-&-Boosters-Smart-Contract-Security-Review.pdf) |
+| **Sweat Economy** | SWEAT NEP-141 Token Security Review | NEAR | Smart Contract | Rust | [PDF](The-Sweat-Foundation-Ltd-SWEAT-NEP-141-Token-Smart-Contract-Security-Review.pdf) |
 | **Templar** | Templar Single Chain Smart Contracts Security Review | NEAR | Smart Contract | Rust | [PDF](Templar-NEAR-Smart-Contract-Security-Review-Final-Report.pdf) |
 | **Enjin** | Relaychain and Matrixchain Security Review | Enjin/Polkadot | Substrate Layer-1 | Rust | Private |
 | **Cleopetra** | Solana Trading Bot Security Review | Solana | Smart Contract | TypeScript | [PDF](Cleopetra-Solana-Trading-Bot-Security-Review-Final-Report.pdf) |
