@@ -20,6 +20,7 @@ Reports are published here when clients approve public release. Some selected en
 | **Sweat Economy** | SWEAT NEP-141 Token Security Review | NEAR | Smart Contract | Rust | [PDF](The-Sweat-Foundation-Ltd-SWEAT-NEP-141-Token-Smart-Contract-Security-Review.pdf) |
 | **Templar** | Templar Single Chain Smart Contracts Security Review | NEAR | Smart Contract | Rust | [PDF](Templar-NEAR-Smart-Contract-Security-Review-Final-Report.pdf) |
 | **Enjin** | Relaychain and Matrixchain Security Review | Enjin/Polkadot | Substrate Layer-1 | Rust | Private |
+| **Enjin** | Claims Pallet Security Review | Enjin/Polkadot | Substrate Pallet | Rust | Private |
 | **Cleopetra** | Solana Trading Bot Security Review | Solana | Smart Contract | TypeScript | [PDF](Cleopetra-Solana-Trading-Bot-Security-Review-Final-Report.pdf) |
 | **Virto Network** | Virto Network Pallet Pass Security Review | Virto/Polkadot | Substrate Pallet | Rust | [PDF](Virto-Network-Pallet-Pass-Security-Review-Final-Report.pdf) |
 | **Ample Protocol** | IP and Media Protocol Security Review | NEAR | Smart Contract | Rust | [PDF](Ample-Protocol-NEAR-Rust-Smart-Contract-Security-Assessment.pdf) |
